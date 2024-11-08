@@ -434,7 +434,11 @@ section h3.section-subheading {
 
 .timeline {
     position: relative;
-    padding: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding: 0;
     list-style: none;
 }
 
