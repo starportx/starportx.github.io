@@ -17,6 +17,7 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% if post.img1 %}<img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">{% endif %}
                             {% if post.img2 %}<img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">{% endif %}
+                            {% if post.mov %}<iframe width="420" height="315" src="{{ post.mov }}"></iframe>{% endif %}
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
