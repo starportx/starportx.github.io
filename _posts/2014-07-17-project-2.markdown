@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
-img1: finalpic_0000.webp
+img1: cinematic-vfx.webp
 thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: April 2014
