@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2014-07-14
 img: startup-framework.png
-mov: <iframe width="1903" height="729" src="https://www.youtube.com/embed/RQkxgKN_ltc" allowfullscreen></iframe>
+mov: https://youtu.be/embed/N4A51rC_zZg
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: April 2014
