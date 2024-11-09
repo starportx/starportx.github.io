@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: treehouse.png
-mov: https://www.youtube.com/embed/N4A51rC_zZg
+mov: <iframe width="1903" height="729" src="https://www.youtube.com/embed/N4A51rC_zZg" allowfullscreen></iframe>
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
 project-date: April 2014
