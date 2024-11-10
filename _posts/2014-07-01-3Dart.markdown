@@ -1,0 +1,18 @@
+---
+title: 3D Arts
+subtitle: Maya/Photoshop
+layout: default
+modal-id: 12
+date: 2014-07-01
+img: 3Dart-01.png
+img1: 3Dart-02.png
+img2: 3Dart-03.png
+img3: 3Dart-04.png
+img4: 3Dart-05.png
+thumbnail: 3Dart-thumbnail.png
+alt: image-alt
+project-date: 2010
+client: Disney
+category: Xbox360
+description: Some 3D artwork in early stages of my career.
+---
