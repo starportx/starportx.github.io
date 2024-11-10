@@ -2,7 +2,7 @@
 title: Vertex Shader Tricks
 subtitle: Shader
 layout: default
-modal-id: 12
+modal-id: 3
 date: 2014-07-10
 img: shader-vertex-PivotBasedTree_2.gif
 img1: shader-vertex-PivotBasedTree_3.gif
