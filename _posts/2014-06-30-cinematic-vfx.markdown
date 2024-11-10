@@ -4,7 +4,7 @@ subtitle: FumeFX
 layout: default
 modal-id: 13
 date: 2014-06-30
-mov: https://www.youtube.com/embed/cBI4Kry1T0Q
+mov: https://www.youtube.com/embed/N4A51rC_zZg
 thumbnail: cinematic-vfx-thumbnail.png
 alt: image-alt
 project-date: 2007
