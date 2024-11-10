@@ -1,5 +1,5 @@
 ---
-title: Volumetric Cloud (SkyCOTL)
+title: Volumetric Cloud
 subtitle: Shader
 layout: default
 modal-id: 7
