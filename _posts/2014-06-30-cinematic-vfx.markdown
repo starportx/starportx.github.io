@@ -10,5 +10,5 @@ alt: image-alt
 project-date: 2007
 client: 
 category: 
-description: Some cinematric VFX works in early stages of my career.
+description: Some cinematric VFX works at the early stages of my career.
 ---

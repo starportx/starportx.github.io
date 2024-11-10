@@ -14,5 +14,5 @@ alt: image-alt
 project-date: 2010
 client: Disney
 category: Xbox360
-description: Some 3D artwork in early stages of my career.
+description: Some 3D artwork at the early stages of my career.
 ---
