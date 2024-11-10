@@ -1,5 +1,5 @@
 ---
-title: FFT Ocean
+title: Mobile FFT Ocean
 subtitle: Graphic Feature
 layout: default
 modal-id: 2
