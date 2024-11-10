@@ -1,5 +1,5 @@
 ---
-title: Topdown Ocean Shader
+title: Topdown Ocean
 subtitle: Shader
 layout: default
 modal-id: 5
