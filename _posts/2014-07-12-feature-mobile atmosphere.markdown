@@ -1,6 +1,6 @@
 ---
 title: Mobile Atmospheres
-subtitle: Render Feature
+subtitle: Graphic Feature
 layout: default
 modal-id: 12
 date: 2023-01-01

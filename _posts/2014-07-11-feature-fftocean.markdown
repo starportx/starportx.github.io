@@ -1,8 +1,8 @@
 ---
 title: FFT Ocean
-subtitle: Render Feature
+subtitle: Graphic Feature
 layout: default
-modal-id: 10
+modal-id: 13
 date: 2020-05-18
 mov: https://www.youtube.com/embed/cBI4Kry1T0Q
 mov1: https://www.youtube.com/embed/utTeHYqQU9E
