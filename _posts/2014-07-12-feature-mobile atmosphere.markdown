@@ -6,7 +6,7 @@ modal-id: 1
 date: 2014-07-12
 mov: https://www.youtube.com/embed/BbO-QxaWDCE
 mov1: https://www.youtube.com/embed/VWltdU53XCE
-thumbnail: feature-mobile-atmosphere.jpg
+thumbnail: feature-mobile-atmosphere.png
 alt: image-alt
 project-date: Jan 2023
 client: IGG

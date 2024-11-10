@@ -6,7 +6,7 @@ modal-id: 2
 date: 2014-07-11
 mov: https://www.youtube.com/embed/cBI4Kry1T0Q
 mov1: https://www.youtube.com/embed/utTeHYqQU9E
-thumbnail: feature-fftocean-thumbnail.jpg
+thumbnail: feature-fftocean-thumbnail.png
 alt: image-alt
 project-date: May 2020
 client: IGG
