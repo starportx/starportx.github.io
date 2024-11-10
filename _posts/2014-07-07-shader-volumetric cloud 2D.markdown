@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2014-07-07
 mov: https://www.youtube.com/embed/RQkxgKN_ltc
-thumbnail: shader-volumetric cloud 2D-thumbnail.png
+thumbnail: shader-volumetric cloud 2D-thum.png
 alt: image-alt
 project-date: Oct 2022
 client: IGG
