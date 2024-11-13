@@ -1,0 +1,19 @@
+---
+title: 3D Print
+subtitle: ProEngine
+layout: default
+modal-id: 14
+date: 2014-06-29
+img: 3dprint-00.png
+img1: 3dprint-01.png
+img2: 3dprint-02.png
+img3: 3dprint-03.png
+img4: 3dprint-05.png
+img5: 3dprint-06.png
+thumbnail: 3dprint-thumbnail.png
+alt: image-alt
+project-date: 2010
+client: Personal
+category: 3D Print
+description: A personal 3d-print model implement of one project concept.
+---
