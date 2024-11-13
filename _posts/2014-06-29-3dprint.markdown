@@ -15,5 +15,5 @@ alt: image-alt
 project-date: 2010
 client: Personal
 category: 3D Print
-description: A personal 3d-print model implement of one project concept.
+description: A personal 3d-print model inspired by one project concept.
 ---
