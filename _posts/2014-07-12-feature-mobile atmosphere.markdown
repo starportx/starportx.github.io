@@ -11,5 +11,5 @@ alt: image-alt
 project-date: Jan 2023
 client: IGG
 category: Mobile
-description: Atmosphere scattering for mobile game, based on https://blog.selfshadow.com/publications/s2020-shading-course/
+description: Atmosphere scattering for mobile game, based on https://blog.selfshadow.com/publications/s2020-shading-course/, considering best performance, shadow casting and outer space support is trimmed.
 ---

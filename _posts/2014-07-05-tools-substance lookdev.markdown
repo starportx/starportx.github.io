@@ -10,5 +10,5 @@ alt: image-alt
 project-date: Mar 2019
 client: Netease
 category: Mobile
-description: Substance Painter lookdev environment calibration to UE4.
+description: Calibrate Substance Painter preview windows to UE4.
 ---

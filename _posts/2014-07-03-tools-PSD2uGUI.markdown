@@ -10,5 +10,5 @@ alt: image-alt
 project-date: June 2017
 client: Tencent
 category: Mobile
-description: Automatic the UI workflow from photoshop to unity, photoshop script export ui widgets and xml config file to specific project folder and unity script assemble them into game interface.
+description: Automatic the UI workflow from photoshop to unity, the photoshop script export ui widgets slices and XML config file to specific project folder and unity script assemble them into an interface entity.
 ---

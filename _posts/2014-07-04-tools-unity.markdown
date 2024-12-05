@@ -12,5 +12,5 @@ alt: image-alt
 project-date: Mar 2017
 client: Tencent
 category: Mobile
-description: Assets importer manager, use profiles to control various resource importing.
+description: An assets importer manager, which automatically setup resources when importing. You can use different presets and rules for different resources and folders.
 ---

@@ -14,5 +14,5 @@ alt: image-alt
 project-date: 
 client: 
 category: Mobile
-description: Various visual effects by means of vertex shader.<br>1. Pivot-based Tree<br>2. Pivot-based Tree<br>3. Grass Motion<br>4. Optimized Volumetric VFX<br>5. Bufferfly VFX trick
+description: Various visual effects via vertex shader.<br>1. Pivot-based Tree<br>2. Pivot-based Tree<br>3. Grass Motion<br>4. Optimized Volumetric VFX<br>5. Bufferfly VFX trick
 ---

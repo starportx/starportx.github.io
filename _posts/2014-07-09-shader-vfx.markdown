@@ -11,5 +11,5 @@ alt: image-alt
 project-date: 
 client: 
 category: Mobile
-description: Various shader in VFX<br>1.Rain ripple<br>2.Character trail in topdown game
+description: Some shaders in VFX<br>1.Rain ripple without ripple map<br>2.Character trail for topdown game
 ---

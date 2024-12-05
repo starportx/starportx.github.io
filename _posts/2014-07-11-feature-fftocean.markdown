@@ -11,5 +11,5 @@ alt: image-alt
 project-date: May 2020
 client: IGG
 category: Mobile
-description: Ocean system based on baked fast fourier transformation, ocean mesh is geometry clipmaps, buoyancy samples from baked height map, each sample point costs 0.02ms on mobile.
+description: Ocean system based on a FFT(fast fourier transformation) ocean, maps(height,normal,foam,etc) are baked at beginning frames of simulation, ocean mesh use geometry clipmaps, while buoyancy feature is implemented by sampling from baked height map, each point-sample costs around 0.02ms on mobile.
 ---

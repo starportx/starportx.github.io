@@ -10,5 +10,5 @@ alt: image-alt
 project-date: Oct 2022
 client: IGG
 category: Mobile
-description: Volumetric cloud simulation on skybox shader, by using simple raymarching and thickness map.
+description: Volumetric cloud simulation in skybox shader, by simple raymarching from thickness map.
 ---
