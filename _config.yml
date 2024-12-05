@@ -1,4 +1,4 @@
-url: https://y7kim.github.io
+url: https://starportx.github.io
 baseurl: 
 
 # Site settings
@@ -7,18 +7,6 @@ email: starportxxx@hotmail.com
 description: "Site Description"
 
 
-# Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -32,7 +20,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
+  - line: Shanghai China
   - line: Beverly Hills, CA 90210
 
 # Build settings
