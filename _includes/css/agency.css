@@ -300,7 +300,7 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
-@media(min-width:1080px) {
+@media(max-width:1080px) {
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
@@ -325,29 +325,6 @@ header .intro-text .intro-heading {
 }
 
 
-@media(min-width:768px) {
-    header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
-    }
-
-    header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
-        font-family: {{ site.data.template.font.secondary }};
-        font-size: 32px;
-        font-style: italic;
-        line-height: 32px;
-    }
-
-    header .intro-text .intro-heading {
-        margin-bottom: 50px;
-        /*text-transform: uppercase;*/
-        font-family: {{ site.data.template.font.primary }};
-        font-size: 75px;
-        font-weight: 700;
-        line-height: 75px;
-    }
-}
 
 section {
     padding: 100px 0;
