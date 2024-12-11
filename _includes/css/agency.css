@@ -268,6 +268,7 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
+    /*
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/portfolio/shader-vertex-GrassMotion.webp');
     background-position: center top;
@@ -276,6 +277,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+        */
 }
 
 
@@ -284,13 +286,19 @@ header .intro-text {
     padding-bottom: 150px;
 }
 
-header .intro-text .introvideo {
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        object-fit: cover;
-        z-index: -1;
-    }
+header .intro-text .video-container {
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+
+header .intro-text .video-container .introvideo {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    object-fit: fill;
+    z-index: -1;
+}
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
