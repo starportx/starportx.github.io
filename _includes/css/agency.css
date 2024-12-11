@@ -286,13 +286,8 @@ header .intro-text {
     padding-bottom: 150px;
 }
 
-header .intro-text .video-container {
-    height: 300px;
-    width: 300px;
-    position: relative;
-}
 
-header .intro-text .video-container .introvideo {
+header .intro-text .intro-video {
     width: 100%;
     height: 100%;
     position: absolute;
