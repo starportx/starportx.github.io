@@ -2,7 +2,7 @@
 title: Procedual Grass Shader
 subtitle: Practice
 layout: default
-modal-id: 1
+modal-id: 17
 date: 2014-07-15
 mov: https://www.youtube.com/embed/lDCLGkHlVKw
 thumbnail: practice-procedura-grass.png
