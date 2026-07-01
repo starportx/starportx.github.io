@@ -7,7 +7,7 @@ date: 2014-07-13
 mov: https://www.youtube.com/embed/ZDN3bDLQ5jM
 thumbnail: practice-HMI-demo.png
 alt: image-alt
-project-date: Jan 2023
+project-date: May 2026
 client: N/A
 category: Practice
 description: HMI practice with Unity6 
