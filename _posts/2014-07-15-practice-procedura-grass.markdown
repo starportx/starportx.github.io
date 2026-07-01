@@ -5,7 +5,7 @@ layout: default
 modal-id: 17
 date: 2014-07-15
 mov: https://www.youtube.com/embed/lDCLGkHlVKw
-thumbnail: practice-procedura-grass.png
+thumbnail: thumbnail-practice-procedura-grass.png
 alt: image-alt
 project-date: Jun 2026
 client: N/A

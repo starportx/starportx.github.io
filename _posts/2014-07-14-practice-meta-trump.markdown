@@ -11,7 +11,7 @@ img3: practice-meta-trump-post04.png
 img4: practice-meta-trump-post05.png
 mov: https://www.youtube.com/embed/RUz7sUzPcQg
 mov1: https://www.youtube.com/embed/FImLYWiRvqc
-thumbnail: practice-meta-trump01.png
+thumbnail: thumbnail-practice-meta-trump.png
 alt: image-alt
 project-date: Apr 2026
 client: N/A
