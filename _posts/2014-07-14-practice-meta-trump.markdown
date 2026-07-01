@@ -16,5 +16,5 @@ alt: image-alt
 project-date: Apr 2026
 client: N/A
 category: Practice
-description: A practice for AIGC and Metahuman5.7. Generate the multi-views with ChatGPT, modeling and texturing in meshy, grooming in Blender, clothing in Marvelous, finally import them into metahuman, not rigging fixing yet.
+description: A practice for AIGC and Metahuman5.7. Multi-views generated in ChatGPT, modeling and texturing in meshy, grooming in Blender, clothing in Marvelous, finally assets imported into metahuman and setup, no rigging fixing yet.
 ---
