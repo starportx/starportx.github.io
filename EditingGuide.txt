@@ -1,0 +1,4 @@
+post文件夹下复制md文件，按照日期顺次添加，日期越新页面排序越靠前
+md文件内：日期最好一致，添加img，img1，mov，thumbnail，poject-date等信息
+img\portfolio内上传相应文件，做thumbnail的文件最好命名thumbnail-前缀，方便管理，需要是400*225，否则排版会错位
+然后push
